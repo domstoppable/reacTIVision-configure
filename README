@@ -3,8 +3,8 @@ Author:
 	dom@domstyle.net
 
 Requirements:
-	Kivy         >= 1.0.6	[ kivy.org ]
-	reacTIVision >= 1.4		[ reactivision.sourceforge.net ]
+	Kivy         >= 1.2    [ kivy.org ]
+	reacTIVision >= 1.4    [ reactivision.sourceforge.net ]
 
 Description:
 	An application for generating calibration.grid files for use with reacTIVision.
