@@ -1,0 +1,17 @@
+Author:
+	Dominic Canare
+	dom@domstyle.net
+
+Requirements:
+	Kivy         >= 1.0.6	[ kivy.org ]
+	reacTIVision >= 1.4		[ reactivision.sourceforge.net ]
+
+Description:
+	An application for generating calibration.grid files for use with reacTIVision.
+
+How to use:
+	1. Delete your existing calibration.grid file
+	2. Start reacTIVision
+	3. Start main.py
+	4. Touch and hold each target
+	5. Press escape
