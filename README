@@ -15,3 +15,6 @@ How to use:
 	3. Start main.py
 	4. Touch and hold each target
 	5. Press escape
+	   * New calibration.grid file is saved on disk
+	6. Restart reacTIVision w/ new calibration.grid
+
